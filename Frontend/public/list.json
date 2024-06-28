@@ -1,0 +1,101 @@
+[
+     {
+          "id" : 1,
+          "name":"Story Book",
+          "title":"lorem ipsum hfgreiwhrvgstjmjty",
+          "price":0,
+          "category":"Free",
+          "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719550679~exp=1719554279~hmac=b0f66a255da513ddaa5675854ec584253b911ba62ae1394a3851e515fcc287eb&w=740"
+         
+     },
+
+     {
+          "id" : 2,
+          "name":"Drama Book",
+          "title":"lorem ipsum hfgreiwhrvgstjmjty",
+          "price":10,
+          "category":"Thriller",
+          "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719550679~exp=1719554279~hmac=b0f66a255da513ddaa5675854ec584253b911ba62ae1394a3851e515fcc287eb&w=740"
+         
+     },
+     {
+          "id" : 3,
+          "name":"Horror Book",
+          "title":"lorem ipsum hfgreiwhrvgstjmjty",
+          "price":30,
+          "category":"Free",
+          "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719550679~exp=1719554279~hmac=b0f66a255da513ddaa5675854ec584253b911ba62ae1394a3851e515fcc287eb&w=740"
+         
+     },
+
+     {
+          "id" : 4,
+          "name":"Comedy Book",
+          "title":"lorem ipsum hfgreiwhrvgstjmjty",
+          "price":40,
+          "category":"Free",
+          "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719550679~exp=1719554279~hmac=b0f66a255da513ddaa5675854ec584253b911ba62ae1394a3851e515fcc287eb&w=740"
+         
+     },
+
+     {
+          "id" : 5,
+          "name":"Food Book",
+          "title":"lorem ipsum hfgreiwhrvgstjmjty",
+          "price":100,
+          "category":"Food",
+          "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719550679~exp=1719554279~hmac=b0f66a255da513ddaa5675854ec584253b911ba62ae1394a3851e515fcc287eb&w=740"
+         
+     },
+
+     {
+          "id" : 6,
+          "name":"Story Book",
+          "title":"lorem ipsum hfgreiwhrvgstjmjty",
+          "price":95,
+          "category":"Free",
+          "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719550679~exp=1719554279~hmac=b0f66a255da513ddaa5675854ec584253b911ba62ae1394a3851e515fcc287eb&w=740"
+         
+     },
+
+     {
+          "id" : 7,
+          "name":"Sports Book",
+          "title":"lorem ipsum hfgreiwhrvgstjmjty",
+          "price":10.0,
+          "category":"Sports",
+          "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719550679~exp=1719554279~hmac=b0f66a255da513ddaa5675854ec584253b911ba62ae1394a3851e515fcc287eb&w=740"
+         
+     }
+,
+
+{
+     "id" : 8,
+     "name":"Business Book",
+     "title":"lorem ipsum hfgreiwhrvgstjmjty",
+     "price":94,
+     "category":"Free",
+     "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719550679~exp=1719554279~hmac=b0f66a255da513ddaa5675854ec584253b911ba62ae1394a3851e515fcc287eb&w=740"
+    
+},
+
+{
+     "id" : 9,
+     "name":"Science Book",
+     "title":"lorem ipsum hfgreiwhrvgstjmjty",
+     "price":29,
+     "category":"Science",
+     "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719550679~exp=1719554279~hmac=b0f66a255da513ddaa5675854ec584253b911ba62ae1394a3851e515fcc287eb&w=740"
+    
+},
+
+{
+     "id" : 10,
+     "name":"Story Book",
+     "title":"lorem ipsum hfgreiwhrvgstjmjty",
+     "price":0,
+     "category":"Free",
+     "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719550679~exp=1719554279~hmac=b0f66a255da513ddaa5675854ec584253b911ba62ae1394a3851e515fcc287eb&w=740"
+    
+}
+]
